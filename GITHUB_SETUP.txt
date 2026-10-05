@@ -1,0 +1,13 @@
+GITHUB QUICK SETUP
+
+1. Create a NEW repository.
+2. Upload the CONTENTS of this folder (do NOT upload the ZIP itself).
+3. Make sure index.html is visible in the ROOT of the repository.
+4. Recommended: Settings -> Pages -> Deploy from a branch -> main -> / (root).
+5. Wait for the deployment, then click Visit site.
+6. Do not add birthday.surprise.wish until the normal github.io URL works.
+
+Password: You are mine
+Birthday: October 11, 2026
+
+Music: the local MP3 starts after the password click. If the phone browser blocks the first play request, tap the Music button once.
